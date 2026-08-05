@@ -66,9 +66,9 @@ Real-time Video Calling App with WebRTC, Socket.IO & React.
 
 ---
 
-### 🍽️ Meal Management System
+### LeadZenAI
 
-Hostel Meal Tracking Dashboard built using MERN Stack.
+AutoLeads specialised for your comapny.
 
 ---
 
@@ -90,31 +90,11 @@ https://portfolio-henna-eta-86.vercel.app/
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=asmiix&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmiix&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asmiix&theme=tokyonight&no-frame=true&row=1"/>
 
 </p>
 
